@@ -19,7 +19,7 @@ In this tutorial, I observe network traffic to and from Azure Virtual Machines w
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Ubuntu Server 22.04
 
 <h2>Actions and Observations</h2>
 
